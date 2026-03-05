@@ -95,3 +95,19 @@ React • Node.js • Express • MongoDB • Puppeteer
 ---
 
 ⭐ **Open to Software Development Internship Opportunities (Summer 2026)**
+
+---
+
+## 🏆 Competitive Programming
+
+<p>
+
+<a href="https://leetcode.com/prabhaschaubey46">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+<!-- <a href="https://codeforces.com/profile/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces">
+</a> -->
+
+</p>
