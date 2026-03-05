@@ -82,7 +82,7 @@ React • Node.js • Express • MongoDB • Puppeteer
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/prabhas-chaubey-990206281/)">
+<a href="https://www.linkedin.com/in/prabhas-chaubey-990206281/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
