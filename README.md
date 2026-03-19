@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Competitive Programmer | B.Tech @ MNNIT Allahabad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Building+StarkPrep&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Building+SpendWise&center=true&width=500&height=50">
 </p>
 
 ---
