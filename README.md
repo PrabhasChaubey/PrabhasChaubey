@@ -12,7 +12,7 @@
 - 🎓 3rd Year **B.Tech Student at MNNIT Allahabad**
 - 💻 Passionate about **Software Development & Problem Solving**
 - 🌱 Currently working with **MERN Stack**
-- 🚀 Building **StarkPrep** – a platform to track coding progress across Codeforces & LeetCode
+- 🚀 Building **SpendWise** – a platform to track your expenses with AI insights
 - 📈 Actively practicing **Data Structures & Algorithms**
 - 🎯 Open to **Software Development Internship Opportunities**
 
