@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year **B.Tech Student at MNNIT Allahabad**
+- 🎓 **B.Tech Student at MNNIT Allahabad**
 - 💻 Passionate about **Software Development & Problem Solving**
 - 🌱 Currently working with **MERN Stack**
-- 🚀 Building **SpendWise** – a platform to track your expenses with AI insights
+- 🚀 Building **CodeNova** – a web based AI IDE
 - 📈 Actively practicing **Data Structures & Algorithms**
 - 🎯 Open to **Software Development Internship Opportunities**
 
