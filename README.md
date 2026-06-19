@@ -51,7 +51,7 @@
 ## 🚀 Featured Projects
 
 ### 🧠 CodeNova — Browser-Native AI IDE
-> Next.js 15 · TypeScript · Monaco Editor · WebContainers · Ollama · NextAuth · Prisma · MongoDB
+> Next.js 16 · TypeScript · Monaco Editor · WebContainers · Ollama · NextAuth · Prisma · MongoDB
 
 A browser-native IDE with real-time code execution via WebContainers, AI-powered inline completions via locally running Ollama LLMs, a custom file explorer, xterm.js terminal wired to the WebContainers shell, and NextAuth OAuth.
 
