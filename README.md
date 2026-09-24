@@ -16,7 +16,7 @@
 - 🧠 Built **CodeNova** — a browser-native AI IDE with WebContainers + Ollama
 - 💰 Built **SpendWise** — an AI-powered finance platform with Gemini AI
 - 📈 Actively practicing DSA — 500+ problems solved
-- 🎯 Open to **Software Engineering Internship Opportunities**
+- 🎯 Open to **Software Engineering Internship + FTE Opportunities**
 
 ---
 
@@ -56,7 +56,6 @@
 A browser-native IDE with real-time code execution via WebContainers, AI-powered inline completions via locally running Ollama LLMs, a custom file explorer, xterm.js terminal wired to the WebContainers shell, and NextAuth OAuth.
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/PrabhasChaubey/codenova)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://codenova.vercel.app)
 
 ---
 
@@ -66,7 +65,7 @@ A browser-native IDE with real-time code execution via WebContainers, AI-powered
 A full-stack finance platform with AI receipt scanning, MongoDB Aggregation Pipeline analytics, automated monthly reports delivered via Resend email API, and recurring transaction automation via node-cron.
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/PrabhasChaubey/spendwise)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://spendwise.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)]([https://spendwise.vercel.app](https://spend-wise-frontend-five.vercel.app/))
 
 ---
 
