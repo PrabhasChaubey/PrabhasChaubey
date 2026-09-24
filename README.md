@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · Competitive Programmer · B.Tech @ MNNIT Allahabad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;LeetCode+Knight+%7C+Rating+1937;Building+CodeNova+%E2%80%94+AI+Web+IDE;Open+to+SWE+Internships&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;LeetCode+Knight+%7C+Rating+1937;Building+CodeNova+%E2%80%94+AI+Web+IDE;Open+to+SWE+Internships+FTE+Opportunities&center=true&width=500&height=50">
 </p>
 
 ---
