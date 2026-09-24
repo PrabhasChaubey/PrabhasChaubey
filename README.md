@@ -94,8 +94,8 @@ A full-stack finance platform with AI receipt scanning, MongoDB Aggregation Pipe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrabhasChaubey&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrabhasChaubey&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=PrabhasChaubey&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrabhasChaubey&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
