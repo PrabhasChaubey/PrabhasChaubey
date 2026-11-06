@@ -15,7 +15,7 @@
 - 💻 Full Stack Developer — MERN, Next.js, TypeScript
 - 🧠 Built **CodeNova** — a browser-native AI IDE with WebContainers + Ollama
 - 💰 Built **SpendWise** — an AI-powered finance platform with Gemini AI
-- 📈 Actively practicing DSA — 500+ problems solved
+- 📈 Actively practicing DSA — 800+ problems solved
 - 🎯 Open to **Software Engineering Internship + FTE Opportunities**
 
 ---
